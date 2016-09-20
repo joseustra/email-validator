@@ -1,5 +1,3 @@
-# email-validator
-
 Email Validator
 =========
 
