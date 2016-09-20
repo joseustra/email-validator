@@ -1,0 +1,19 @@
+{
+  "name": "email-validator",
+  "version": "0.0.1",
+  "description": "Simple node email validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ustrajunior/email-validator"
+  },
+  "keywords": [
+    "email",
+    "validator"
+  ],
+  "author": "Jose Carlos Ustra Junior <dev@ustrajunior.com> (https://ustrajunior.com)",
+  "license": "MIT"
+}
