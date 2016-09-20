@@ -1,5 +1,5 @@
 {
-  "name": "email-validator",
+  "name": "@ustrajunior/email-validator",
   "version": "0.0.1",
   "description": "Simple node email validator",
   "main": "index.js",
